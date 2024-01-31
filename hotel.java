@@ -5,11 +5,20 @@ public static class HotelRoom
     {
         system.out.PrintIn("loaca" + loactaion);
     }
+
     void Details()
     {
         // done detail
     }
     void Booking();
+
+    void Details();
+    
+    void Booking()
+    {
+        //function define
+    }
+
     void transaction();
     void Database();
 }
