@@ -5,7 +5,10 @@ public static class HotelRoom
     {
         system.out.PrintIn("loaca" + loactaion);
     }
-    void Details();
+    void Details()
+    {
+        // done detail
+    }
     void Booking();
     void transaction();
     void Database();
