@@ -6,7 +6,10 @@ public static class HotelRoom
         system.out.PrintIn("loaca" + loactaion);
     }
     void Details();
-    void Booking();
+    void Booking()
+    {
+        //function define
+    }
     void transaction();
     void Database();
 }
